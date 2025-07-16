@@ -97,7 +97,7 @@ For agencies or consultants managing multiple client copies:
 
 * **Deployment via Library:** Deploy the core functionality as a protected Apps Script library, then inject lightweight setup scripts into each client Sheet (using a list of URLs).
 * **Automated Linking:** Client files simply include the library; updates to core logic are instantly available across all deployments, protecting your IP and ensuring maintainability.
-* **For details:** See `deploy-report.pdf` (not included here), which provides a conceptual deployment plan leveraging Google Apps Script Libraries and APIs for scalable roll-out.
+* **For details:** See `deploy-report.pdf`, which provides a conceptual deployment plan leveraging Google Apps Script Libraries and APIs for scalable roll-out.
 
 ---
 
